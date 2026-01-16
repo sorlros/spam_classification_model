@@ -1,4 +1,4 @@
-프로젝트 계획
+# 프로젝트 계획
 
 Day 1-2
 Kaggle 데이터 로드, 스팸/정상(Ham) 비율 확인, 문장 길이 분석, 빈출 단어 시각화(Word Cloud)
@@ -23,8 +23,17 @@ Day 13 실전 인퍼런스 구현
 Day 14 결과 정리 및 회고
 모델별 성능 비교표 작성, 오분류 사례(False Positive/Negative) 분석
 
-DAY 03
+----------------------------------------------------------------------------------------------------------------------------------------------------
+# 과정 
+
+## 텍스트 전처리 파이프라인(데이터 정제 및 정규화) & Naive-bayes 모델 학습 및 추론
 https://aquamarine-leaf-c82.notion.site/ebd//2e3f8c067a05803d8e81d9d99ad00f38
 
-DAT 04
+## 전처리 과정을 거친 메세지 데이터를 Word-cloud 시각화 & LSTM 모델 구성을 위한 데이터 전처리
 https://aquamarine-leaf-c82.notion.site/Day-04-2e6f8c067a058094b40ac0fc0ac86f99
+
+## LSTM 모델 설계 & 모델 아키텍처 분석
+https://aquamarine-leaf-c82.notion.site/LSTM-2eaf8c067a0580b9a2cefaf8b86a05a8
+
+## LSTM 모델의 정상 메세지 재현율을 100%로 향상시키기
+https://aquamarine-leaf-c82.notion.site/2eaf8c067a0580c5bfb2d0495d853507?pvs=73
